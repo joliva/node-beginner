@@ -1,0 +1,2 @@
+run:
+	supervisor index.js
