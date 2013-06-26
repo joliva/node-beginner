@@ -1,2 +1,2 @@
 run:
-	supervisor index.js&
+	supervisor index.js
